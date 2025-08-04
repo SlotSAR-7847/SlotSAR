@@ -15,17 +15,14 @@ We thank the authors of both projects for providing high-quality codebases that 
 
 To use the SARATR-X backbone, please download the pretrained weights from the following link:
 
-- **SARATR-X Checkpoint**:  
-  [Google Drive](https://drive.google.com/file/d/1AE_6wLadOCgwm7nEmtohyRrxKEWozcuK/view?usp=drive_link)
+- **SARATR-X Checkpoint**: [Google Drive](https://drive.google.com/file/d/1AE_6wLadOCgwm7nEmtohyRrxKEWozcuK/view?usp=drive_link)
 
 ## How to Run
 
 Once all dependencies are installed and the pretrained weights are downloaded, you can execute the code in a Jupyter Notebook environment.
 
-Please refer to the setup and execution instructions under the `ATRNet-STAR` configuration:
-
-- **ATRNet-STAR Full Code**:  
-  [https://github.com/waterdisappear/ATRNet-STAR.git](https://github.com/waterdisappear/ATRNet-STAR.git)
+Please refer to the dataset and configuration used in `ATRNet-STAR`:
+- **ATRNet-STAR Full Dataset and Setup**: [https://github.com/waterdisappear/ATRNet-STAR.git](https://github.com/waterdisappear/ATRNet-STAR.git)
 
 ## Acknowledgements
 
