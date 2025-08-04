@@ -10,7 +10,7 @@ We thank the authors of both projects for providing high-quality codebases that 
 
 ## Pretrained Weights
 
-To use the SARATR-X backbone, please download the pretrained weights from the following link: **SARATR-X Checkpoint**: [Google Drive](https://drive.google.com/file/d/1AE_6wLadOCgwm7nEmtohyRrxKEWozcuK/view?usp=drive_link)
+To use the SARATR-X backbone, please download the pretrained weights from the following link: **SARATR-X Checkpoint**: [Google Drive](https://drive.google.com/file/d/1AE_6wLadOCgwm7nEmtohyRrxKEWozcuK/view?usp=sharing)
 
 ## How to Run
 
