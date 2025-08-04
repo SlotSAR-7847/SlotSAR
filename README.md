@@ -16,8 +16,7 @@ To use the SARATR-X backbone, please download the pretrained weights from the fo
 
 Once all dependencies are installed and the pretrained weights are downloaded, you can execute the code in a Jupyter Notebook environment.
 
-Please refer to the dataset and configuration used in `ATRNet-STAR`:
-- **ATRNet-STAR Full Dataset and Setup**: [https://github.com/waterdisappear/ATRNet-STAR.git](https://github.com/waterdisappear/ATRNet-STAR.git)
+Please refer to the dataset and configuration used in `ATRNet-STAR`: **ATRNet-STAR Full Dataset and Setup**: [https://github.com/waterdisappear/ATRNet-STAR.git](https://github.com/waterdisappear/ATRNet-STAR.git)
 
 ## Acknowledgements
 
