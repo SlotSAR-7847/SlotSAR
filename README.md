@@ -1,7 +1,7 @@
 # SlotSAR
 **AAAI 2026 Anonymous Submission**
 
-This repository contains the implementation of **SlotSAR**, a slot attention-based method for unsupervised target-clutter disentanglement in SAR images.
+This repository contains the implementation of SlotSAR, a slot attention-based method for unsupervised target-clutter disentanglement in SAR images.
 
 ## Overview
 SlotSAR is built upon the following two repositories:
